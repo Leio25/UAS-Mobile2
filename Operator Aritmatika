@@ -1,0 +1,25 @@
+main() {
+  print("OPERATOR ARITMATIKA");
+  double a = 25;
+  double b = 10;
+  double hasil;
+  // Operator Penjumlahan
+  hasil = a+b;
+  print("$a + $b = $hasil");
+
+  // Operator Pengurangan
+  hasil = a-b;
+  print("$a - $b = $hasil");
+
+  // Operator Perkalian
+  hasil = a*b;
+  print("$a * $b = $hasil");
+
+  // Operator Pembagian
+  hasil = a/b;
+  print("$a / $b = $hasil");
+
+  // Operator Sisa Bagi
+  hasil = a%b;
+  print("$a % $b = $hasil");
+}
