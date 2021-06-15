@@ -1,0 +1,14 @@
+void main(){
+    // Membuat Variabel Dengan Tipe Data
+    String nama = "Leonardo Sakti";
+    int umur = 23;
+    double tinggi = 168;
+    bool Bekerja = false;
+
+    // Membuat Variabel Dengan Kata Kunci Var
+    var alamat = "Dusun XI Jl. Merah Putih, Kel.Pasar Melintang, Kec.Lubuk Pakam";
+
+    // Mencetak Variabel
+    print("Nama Saya $nama. Umur Saya $umur Tahun. Tinggi Badan $tinggi cm.");
+    print("Bekerja: $Bekerja");
+    print("Alamat: $alamat");
